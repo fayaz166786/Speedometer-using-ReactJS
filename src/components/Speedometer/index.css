@@ -1,0 +1,59 @@
+/* Write your CSS here */
+.container {
+  background-color: #07080c;
+  min-height: 100vh;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.main-heading {
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 35px;
+  color: white;
+}
+.speedPara {
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 25px;
+  color: white;
+}
+span {
+  font-size: 30px;
+}
+.description {
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 17px;
+  color: #94a3b8;
+}
+.btn {
+  height: 40px;
+  min-width: 100px;
+  border-radius: 7px;
+  border-width: 0px;
+  color: #cbd5e1;
+  background-color: #0b69ff;
+  font-size: 14px;
+  cursor: pointer;
+  outline: none;
+  margin-right: 20px;
+}
+.btn-2 {
+  height: 40px;
+  min-width: 100px;
+  border-radius: 7px;
+  border-width: 1px;
+  border-color: #94a3b8;
+  color: #94a3b8;
+  background-color: transparent;
+  font-size: 14px;
+  cursor: pointer;
+  outline: none;
+  margin-right: 10px;
+}
+.image {
+  max-width: 60%;
+}
